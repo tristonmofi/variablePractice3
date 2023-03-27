@@ -4,3 +4,5 @@ var cardsInDeck = 100;
 var standardDeck = 60;
 var myDeckIsBetter = true;
 var yourDeckSucks = false;
+
+var cardColor = "Black";
